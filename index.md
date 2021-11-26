@@ -1,38 +1,41 @@
 ## RESUME
-![Image](https://drive.google.com/file/d/1VRCHZBCUyhOSo6vyugSBCtyqyD3DydtX/view?usp=sharing)
 
-You can use the [editor on GitHub](https://github.com/fournim/resume107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://sv1.picz.in.th/images/2021/11/26/6wQz9v.md.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Infomation
 
-### Markdown
+**Name:** Artitaya Pongnaun
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Phone:** 0980179886
 
-```markdown
-Syntax highlighted code block
+**Email:** artitaya.pong@dome.tu.ac.th
 
-# Header 1
-## Header 2
-### Header 3
+**Age:** 17
 
-- Bulleted
-- List
+**Nationality:** Thai
 
-1. Numbered
-2. List
+**Interest and Activities:** Reading, Learning languages, Writing, Baking, Playing boardgames, Listening to music, Dancing
 
-**Bold** and _Italic_ and `Code` text
+### Education
+**2021-Present**
+- Bachelor of Science Program in Data Science and Innovation, College of Interdisciplinary Studies, Thammasat University
 
-[Link](url) and ![Image](src)
-```
+**2018-2021**
+- Sciences and Mathematics Program, Satri Phatthalung School
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**2015-2018**
+- โครงการพิเศษ เด็กดีศรีท้องถิ่น, Satri Phatthalung School
 
-### Jekyll Themes
+### Skills
+- Basic Python coding
+- Basic computer skills: MS Office (Word/Excel/Power Point)
+- Time management
+- Communication
+- Leadership
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fournim/resume107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Certificates
+- Korean 1-1, Online course-Prince of Songkla University, 2021
+- Academic Excellence in the academic year 2020, Satri Phatthalung School
+- Academic Excellence in the academic year 2019, Satri Phatthalung School
+- Academic Excellence in the academic year 2016, Satri Phatthalung School
+- การกระโดดหอสูงทดสอบจิตใจ, กองร้อยตำรวจตระเวนชายแดนที่ 434, 2017
