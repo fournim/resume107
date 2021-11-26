@@ -19,10 +19,10 @@
 ### Education
 **2021-Present**
 - Bachelor of Science Program in Data Science and Innovation, College of Interdisciplinary Studies, Thammasat University
-- 
+
 **2018-2021**
 - Sciences and Mathematics Program, Satri Phatthalung School
-- 
+
 **2015-2018**
 - โครงการพิเศษ เด็กดีศรีท้องถิ่น, Satri Phatthalung School
 
